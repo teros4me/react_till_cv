@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.reponame {
+  color:#1111ff;
+}
